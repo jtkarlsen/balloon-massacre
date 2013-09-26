@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Ariel.spritefont</Source>
+      <Name>Fonts\Ariel</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Fonts\Ariel.xnb</Output>
+      <Time>2012-11-19T22:03:39.8158618+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\height.spritefont</Source>
+      <Name>Fonts\height</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Fonts\height.xnb</Output>
+      <Time>2012-11-19T22:45:06.4153559+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\effect.fx</Source>
+      <Name>Effects\effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Effects\effect.xnb</Output>
+      <Time>2012-11-21T14:43:49.2427642+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_back.jpg</Source>
+      <Name>Textures\Skybox\iceflats_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_back.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_front.jpg</Source>
+      <Name>Textures\Skybox\iceflats_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_front.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_left.jpg</Source>
+      <Name>Textures\Skybox\iceflats_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_left.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_right.jpg</Source>
+      <Name>Textures\Skybox\iceflats_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_right.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_top.jpg</Source>
+      <Name>Textures\Skybox\iceflats_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_top.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bullet\bullet.jpg</Source>
+      <Name>Textures\Bullet\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Bullet\bullet.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\map.bmp</Source>
+      <Name>Terrain\map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Terrain\map.xnb</Output>
+      <Time>2012-11-21T04:23:30.6382405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\skybox_bottom.jpg</Source>
+      <Name>Textures\Skybox\skybox_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\skybox_bottom.xnb</Output>
+      <Time>2012-11-14T15:03:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plane\camou.bmp</Source>
+      <Name>Textures\Plane\camou</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camou.xnb</Output>
+      <Time>2012-11-16T10:47:12.9973025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plane\camouflage.bmp</Source>
+      <Name>Textures\Plane\camouflage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camouflage.xnb</Output>
+      <Time>2012-11-16T10:47:24.9735+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\speed.png</Source>
+      <Name>Textures\HUD\speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\HUD\speed.xnb</Output>
+      <Time>2012-11-19T20:47:55.7022211+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\needle.png</Source>
+      <Name>Textures\HUD\needle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\HUD\needle.xnb</Output>
+      <Time>2012-11-19T20:28:23.5195478+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUD\height.png</Source>
+      <Name>Textures\HUD\height</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\HUD\height.xnb</Output>
+      <Time>2012-11-19T22:25:10.6163559+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ParticleExplotion\ParticleColors.png</Source>
+      <Name>Textures\ParticleExplotion\ParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\ParticleExplotion\ParticleColors.xnb</Output>
+      <Time>2012-11-21T02:58:58.6453949+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Terrain\snowtexture.jpg</Source>
+      <Name>Textures\Terrain\snowtexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Terrain\snowtexture.xnb</Output>
+      <Time>2012-11-21T04:23:01.3585333+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skybox.x</Source>
+      <Name>Models\skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Models\skybox.xnb</Output>
+      <Time>2012-11-21T14:56:57.6906965+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\skybox_0.xml</Key>
+        <Value>2012-11-21T14:56:58.2107485+01:00</Value>
+      </Dependency>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_top_0.xnb</Request>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Right_0.xnb</Request>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Left_0.xnb</Request>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Front_0.xnb</Request>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Back_0.xnb</Request>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\SkyBox_Bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\spitfire.X</Source>
+      <Name>Models\spitfire</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Models\spitfire.xnb</Output>
+      <Time>2012-11-21T14:59:37.5897591+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\spitfire_0.xml</Key>
+        <Value>2012-11-21T14:59:42.4157591+01:00</Value>
+      </Dependency>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camou_0.xnb</Request>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camouflage_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\propeller.X</Source>
+      <Name>Models\propeller</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Models\propeller.xnb</Output>
+      <Time>2012-11-21T15:00:44.3237591+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\propeller_0.xml</Key>
+        <Value>2012-11-21T15:00:45.2187591+01:00</Value>
+      </Dependency>
+      <Request>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camou_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\skybox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\skybox_0.xml</Output>
+      <Time>2012-11-21T14:56:57.6906965+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_top_0.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Right_0.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Left_0.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Front_0.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\iceflats_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Back_0.xnb</Output>
+      <Time>2012-11-13T16:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Skybox\SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\SkyBox_Bottom_0.xnb</Output>
+      <Time>2012-11-14T15:03:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spitfire.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\spitfire_0.xml</Output>
+      <Time>2012-11-21T14:59:37.5897591+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plane\camou.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camou_0.xnb</Output>
+      <Time>2012-11-16T10:47:12.9973025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Plane\camouflage.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camouflage_0.xnb</Output>
+      <Time>2012-11-16T10:47:24.9735+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\propeller.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\propeller_0.xml</Output>
+      <Time>2012-11-21T15:00:44.3237591+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gass.wav</Source>
+      <Name>Sound\gass</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\gass.xnb</Output>
+      <Time>2012-11-19T10:10:31.3132949+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\tomgang.wav</Source>
+      <Name>Sound\tomgang</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\tomgang.xnb</Output>
+      <Time>2012-11-19T10:10:31.3730111+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\shot.wav</Source>
+      <Name>Sound\shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\shot.xnb</Output>
+      <Time>2012-11-21T22:33:58.4077235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion.wav</Source>
+      <Name>Sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\explosion.xnb</Output>
+      <Time>2012-11-21T22:42:06.7257235+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacreContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacreContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-28T14:15:24.6808304+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

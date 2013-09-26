@@ -1,0 +1,120 @@
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\map.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\27-snow-texture.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\effect.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.exe
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.pdb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.exe
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.pdb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_back.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_front.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_left.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_right.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_top.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\skybox.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_top_0.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Right_0.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Left_0.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Front_0.xnb
+E:\Datamaskingrafikk\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Back_0.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\27-snow-texture.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_back.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_front.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_left.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_right.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_top.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\bullet.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\effect.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\effectSky.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\skybox.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\target.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\xwing.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_top_0.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Right_0.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Left_0.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Front_0.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Back_0.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.exe
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.pdb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.exe
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.pdb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Fonts\Arial.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\map.xnb
+E:\Datamaskingrafikk\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\skybox_bottom.xnb
+K:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.exe
+K:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.pdb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\27-snow-texture.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_back.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_front.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_left.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_right.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_top.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\bullet.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\map.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\skybox_bottom.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\effect.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\effectSky.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\skybox.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\target.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Fonts\Arial.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_top_0.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Right_0.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Left_0.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Front_0.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\iceflats_Back_0.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.exe
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.pdb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.exe
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.pdb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.exe
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\BalloonMassacre.pdb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.exe
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\obj\x86\Debug\BalloonMassacre.pdb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\camou.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\camouflage.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\spitfire.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\propeller.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\camou_0.xnb
+G:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\camouflage_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Fonts\Ariel.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Fonts\height.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Effects\effect.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_back.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_front.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_left.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_right.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_top.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Bullet\bullet.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Terrain\map.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\skybox_bottom.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camou.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camouflage.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\HUD\speed.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\HUD\needle.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\HUD\height.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\ParticleExplotion\ParticleColors.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Terrain\snowtexture.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Models\skybox.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Models\spitfire.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Models\propeller.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_top_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Right_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Left_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Front_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\iceflats_Back_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Skybox\SkyBox_Bottom_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camou_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Textures\Plane\camouflage_0.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\gass.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\tomgang.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\shot.xnb
+E:\Programmering\Programmering\XNA\Terrain balloon massacre\BalloonMassacre\BalloonMassacre\BalloonMassacre\bin\x86\Debug\Content\Sound\explosion.xnb
